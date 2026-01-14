@@ -9,13 +9,20 @@ website:
         text: Home
       - href: project.qmd
         text: Projects
-      - text: Contacts
-        href: contact.qmd
       - icon: github
         href: https://github.com/jarvind20
       - icon: linkedin
         href: https://www.linkedin.com/in/joshua-arvind0101/
+      - icon: envelope
+        text: "Email"
+        href: mailto:joshua.arvind@gmail.com
+      - icon: telephone
+        text: "Phone"
+        href: "tel:703-889-7810"
+      - text: "Last Updated: 1-14-26"
       
+        
+        
 
 format:
   html:
