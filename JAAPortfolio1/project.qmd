@@ -14,11 +14,13 @@ Can we predict finishing positions given qualifying results, lap times, and car/
 
 [Dats 4001 - Project Report](documents/DATS_4001_Final_Report.pdf)
 
+[Dats 4001 - Project PPTX slides](documents/Capstone_Presentation.ppsx)
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 2.  Data Visualization - US Presidents Shiny App Project - DATS 2102
 
-An interactive dashboard of U.S. Presidents, featuring data updated through 2023.”
+An interactive dashboard of U.S. Presidents, featuring data updated through 2023.
 
 About: The U.S. Presidents Dashboard is an interactive R Shiny application that allows users to select any U.S. president from a dropdown list and explore related data or visualizations for that leader, presenting information tailored to the selected president. The app is designed as a user-friendly dashboard to help users compare presidents or dive deeper into specific details about each administration
 
