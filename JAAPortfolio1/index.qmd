@@ -1,13 +1,10 @@
 Name: Joshua Arvind
 
-Location: Ashburn, Virginia
+![](images/IMG_3852.jpeg){width="200"}
 
+Email: [joshua.arvind\@gmail.com](mailto:joshua.arvind@gmail.com)
 
-
-![](images/IMG_3852.jpeg){width="311"}
-
-
-
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 About:
 
@@ -15,7 +12,7 @@ Hi, welcome to my portfolio, this is where I show my technical and spatial data 
 
 "Data is the compass, but visual design is the map that guides the journey."
 
-
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 My Resume:
 
@@ -23,6 +20,6 @@ My Resume:
 
 [Download my Full Resume](documents/JA_Resume_2026.docx)
 
-![](images/gw_logo.png)
+![](images/gw_logo.png){width="100"}
 
 *Made using [Quarto](https://quarto.org/) via **RStudio** for website and document generation*
