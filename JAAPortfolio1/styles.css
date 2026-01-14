@@ -1,0 +1,29 @@
+/* css styles */
+body {
+  background-color: #D1CBCB; /* A very light, clean grey */
+}
+
+
+
+
+/* 1. Import the font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap');
+
+/* 2. Apply to the whole body (paragraphs) */
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.1rem; /* 1.1 times the standard size */
+  line-height: 1.6;   /* Adds breathing room between lines */
+  color: #000000;    /* Dark grey for readability */
+}
+
+/* 3. Apply different style to Headings */
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;  /* Bold */
+  color: #2d2d2d;
+}
+
+
+
+

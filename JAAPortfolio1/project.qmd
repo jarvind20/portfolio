@@ -1,0 +1,61 @@
+---
+title: "Projects"
+---
+
+1.  Data Science Capstone Project: Formula 1 Prediction Streamlit App- DATS 4001
+
+About: The goal of this project is to analyze Formula 1 (F1) racing data to understand its main factors that influence race outcomes and driver performance. F1 has over 70 years of historical racing data, Formula 1 provides a unique dataset for predictive modeling, statistical analysis, and data visualization. The project will focus on these questions -
+
+What factors most strongly predict whether a driver finishes in the top 3?
+
+How do pit stop strategies and weather affect outcomes?
+
+Can we predict finishing positions given qualifying results, lap times, and car/team data?
+
+[Dats 4001 - Project Report](documents/DATS_4001_Final_Report.pdf)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+2.  Data Visualization - US Presidents Shiny App Project - DATS 2102
+
+An interactive dashboard of U.S. Presidents, featuring data updated through 2023.”
+
+About: The U.S. Presidents Dashboard is an interactive R Shiny application that allows users to select any U.S. president from a dropdown list and explore related data or visualizations for that leader, presenting information tailored to the selected president. The app is designed as a user-friendly dashboard to help users compare presidents or dive deeper into specific details about each administration
+
+![You can view my [Shiny App Link](https://joshuaarvind.shinyapps.io/FinalProject/) here](images/Screenshot%202026-01-09%20135737.png)
+
+Data retrieved from: https://www.kaggle.com/datasets/harshitagpt/us-presidents
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+3.  Data Mining - US Job Employment Project - DATS 2103
+
+About: This project analyzes U.S. employment and unemployment trends using historical data from 1974–2024, applying data visualization, feature engineering, and both regression and classification models to understand and predict changes in unemployment. It combines polynomial regression and logistic regression to model unemployment rates and classify their directional change, with model performance evaluated using metrics such as MSE, R², accuracy, and confusion matrices.
+
+[Download my Project Paper](documents/Dats_FinalProject2024.pdf)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+4.  AI Revolution - Professors Using GPT-4 to Grade in University Essay - SMPA 3194
+
+About: This project investigated the use of GPT-4 to automate the grading of short university level written assignments in order to reduce instructor workload while maintaining consistency, fairness, and quality of feedback. The results showed that AI-based grading dramatically decreased grading time, improved rubric adherence, and produced useful feedback, while still requiring human oversight for edge cases and ethical concerns.
+
+[AI REV Final Paper](documents/Ai%20Rev%20final%20project.docx)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+5.  Intro to Cartography and GIS - Arc GIS Map Portfolio - GEOG 2104
+
+About: I explored the mix of geographic data science and visual storytelling, learning how to use GIS software to analyze spatial patterns and solve complex location based problems. Ive also mastered the art of cartography, focusing on the design principles required to transform raw geographic information into professional, accurate, and aesthetically compelling maps.
+
+You can view my [Arc GIS Portfolio](https://arcg.is/0muGbX0) here.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+6.  Intro to Data Science Stress Project - DATS 1001
+
+About: This project investigates the complex relationship between academic performance, well-being, and stress levels among engineering students. Through statistical analysis and correlation testing, the study identifies academic performance and sleep quality as the most significant factors impacting student stress. Ultimately, the research emphasizes the necessity of balancing workloads and implementing stress-management workshops to improve student success and mental health.
+
+[View Final Group Project](documents/projectUp1.html)
+
+Data Retrieved from : https://www.kaggle.com/datasets/samyakb/student-stress-factors

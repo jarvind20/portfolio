@@ -1,0 +1,21 @@
+Name: Joshua Arvind
+
+Location: Ashburn, Virginia
+
+![](images/IMG_3852.jpeg){width="311"}
+
+About:
+
+Hi, welcome to my portfolio, this is where I show my technical and spatial data analysis. My portfolio showcases my ability to transform raw geographic and academic data into actionable insights through the use of R, Python, GIS and more.
+
+"Data is the compass, but visual design is the map that guides the journey."
+
+My Resume:
+
+![](images/Screenshot%202026-01-09%20133447.png){width="457"}
+
+[Download my Full Resume](documents/JA_Resume_2026.docx)
+
+![](images/gw_logo.png)
+
+*Made using [Quarto](https://quarto.org/) via **RStudio** for website and document generation*

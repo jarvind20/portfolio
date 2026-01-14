@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: " Joshua Arvind's Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: project.qmd
+        text: Projects
+      - text: Contacts
+        href: contact.qmd
+      - icon: github
+        href: https://github.com/jarvind20
+      - icon: linkedin
+        href: https://www.linkedin.com/in/joshua-arvind0101/
+      
+
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    
+    
+    
